@@ -5,6 +5,10 @@ public class Gerente extends Funcionario{
 	
 	private int senha;
 
+	public void setSenha(int senha) {
+		this.senha = senha;
+	}
+	
 	public boolean autentica(int senha) {
 		if(this.senha == senha) {
 			return true;
@@ -12,13 +16,8 @@ public class Gerente extends Funcionario{
 			return false;
 		}
 	}
-	
-	public void setSenha(int senha) {
-		this.senha = senha;
+// reescrita, reescrevemos o mesmo método para o mãe e o filho
+	public double getBonificacao() {
+		return super.salario;
 	}
-	
-	
-//	public double getBonificacao() {
-//		return this.salario;
-//	}
 }
