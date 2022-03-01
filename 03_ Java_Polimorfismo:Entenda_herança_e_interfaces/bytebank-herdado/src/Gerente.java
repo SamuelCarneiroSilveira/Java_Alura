@@ -18,6 +18,6 @@ public class Gerente extends Funcionario{
 	}
 // reescrita, reescrevemos o mesmo método para o mãe e o filho
 	public double getBonificacao() {
-		return super.salario;
+		return super.getBonificacao() + super.getSalario(); // obrigatorio usar o super, pois o método esta definido na classe super!
 	}
 }

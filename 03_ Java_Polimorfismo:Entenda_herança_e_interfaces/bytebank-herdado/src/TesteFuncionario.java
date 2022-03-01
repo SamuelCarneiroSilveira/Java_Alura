@@ -12,5 +12,7 @@ public class TesteFuncionario {
 		System.out.println(nico.getName());
 		System.out.println(nico.getBonificacao());
 		
+//		nico.getSalario();
+		
 	}
 }

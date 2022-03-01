@@ -3,11 +3,11 @@ public class Funcionario {
 
 	private String name;
 	private String cpf;
-	protected double salario; // publico para os meios filhos
+	private double salario; // publico para os meios filhos
 
 	
 	public double getBonificacao() {
-		return this.salario*0.1;
+		return this.salario*0.05;
 	}
 	
 	public String getName() {
