@@ -22,5 +22,9 @@
 
      
 
-2. Compilando o primeiro programa Java
+2. Java Introdução a Orientação a Objetos
+
+   * O problema do paradígma procedural
+   * Introdução a Orientação a Objetos
+   * Definindo comportamento 
 
