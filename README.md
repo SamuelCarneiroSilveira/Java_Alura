@@ -22,9 +22,18 @@
 
      
 
-2. Java Introdução a Orientação a Objetos
+2. Compilando o primeiro programa Java
 
-   * O problema do paradígma procedural
-   * Introdução a Orientação a Objetos
-   * Definindo comportamento 
+   * O problema do paradigma procedural vs Objetos
 
+   * Vamos lá: Orientação a objetos <---
+
+   * Definindo Comportamento
+
+   * Composição de Objetos
+
+   * Encapsulamento e visibilidade
+
+   * Construtores e membros estáticos
+
+     
