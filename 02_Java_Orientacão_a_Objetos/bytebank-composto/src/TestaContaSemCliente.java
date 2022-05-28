@@ -7,7 +7,7 @@ public class TestaContaSemCliente {
 		contaDaMarcela.titular = new Cliente(); // Criando um novo objeto cliente
 		
 		
-		System.out.println(contaDaMarcela.saldo);
+		System.out.println(contaDaMarcela.getSaldo());
 		System.out.println(contaDaMarcela.titular);
 		System.out.println(contaDaMarcela.titular.nome);
 		// null, uma referência que nunca foi populada

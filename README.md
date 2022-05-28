@@ -30,9 +30,9 @@
 
    * Definindo Comportamento 
 
-   * Composição de Objetos <---
+   * Composição de Objetos 
 
-   * Encapsulamento e visibilidade
+   * Encapsulamento e visibilidade <---
 
    * Construtores e membros estáticos
 
