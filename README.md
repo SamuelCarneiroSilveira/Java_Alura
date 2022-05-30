@@ -32,10 +32,12 @@
 
    * Composição de Objetos 
 
-   * Encapsulamento e visibilidade <---
+   * Encapsulamento e visibilidade 
 
    * Construtores e membros estáticos
 
    * Notes: https://voltaic-carbon-23c.notion.site/Java-OO-Introdu-o-a-Orienta-o-a-Objetos-730a977d5c864e4a86fa2f69b07d9e9d
 
-     
+3. Entenda Herança e Interfaces
+
+   * Introdução a herança <--
