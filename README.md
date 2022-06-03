@@ -40,4 +40,4 @@
 
 3. Entenda Herança e Interfaces
 
-   * Introdução a herança <--
+   * Introdução a herança
