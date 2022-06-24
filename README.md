@@ -33,7 +33,7 @@
    * Super e reescrita de métodos 
    * Entendendo Polimorfismo
    * Herança e o uso de construtores 
-   * Classes e métodos abstratos <---
+   * Classes e métodos abstratos <----
    * Interfaces
    * Praticando herança e interfaces
    
