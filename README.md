@@ -33,8 +33,8 @@
    * Super e reescrita de métodos 
    * Entendendo Polimorfismo
    * Herança e o uso de construtores 
-   * Classes e métodos abstratos <----
-   * Interfaces
+   * Classes e métodos abstratos 
+   * Interfaces <----
    * Praticando herança e interfaces
    
    * Notes: https://www.notion.so/Java-Polimorfismo-Entenda-heran-a-e-interfaces-93447d52966747938e8099dd4baeeef4
