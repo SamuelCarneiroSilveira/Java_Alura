@@ -19,8 +19,6 @@ public class TestaGetESet {
 		
 			System.out.println(conta.getTitular().getNome());
 			System.out.println(Conta.getTotal());
-			
-			
 		
 		}
 }
