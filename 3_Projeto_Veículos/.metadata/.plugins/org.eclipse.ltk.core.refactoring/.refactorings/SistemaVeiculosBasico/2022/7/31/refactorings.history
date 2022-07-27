@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Veiculo.java&apos; to &apos;SistemaAluguel/src/(default package)&apos;&#x0A;- Original project: &apos;SistemaVeiculosBasico&apos;&#x0A;- Destination element: &apos;SistemaAluguel/src/(default package)&apos;&#x0A;- Original element: &apos;Veiculo.java&apos;" description="Copy compilation unit" destination="=SistemaAluguel/src&lt;" element1="/src&lt;{Veiculo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1658929841454" units="1" version="1.0"/>
+</session>
