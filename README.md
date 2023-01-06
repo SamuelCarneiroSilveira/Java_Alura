@@ -43,4 +43,39 @@
 
    * Sistema simples para locadora de veículos
    
+   * Notes: https://voltaic-carbon-23c.notion.site/Projeto-Teste-Aprendizado-4e9780db4ef94fedb9160f7b128230bf
+   
 4. Excessões
+  
+  * Pilha de Execução
+  * Tratamento de Excessões
+  * Lançando Excessões 
+  * Checked e Unchecked
+  * Aplicando Exceções 
+  * Finally e Try with Resources
+
+   * Notes: https://voltaic-carbon-23c.notion.site/Java-Exce-es-Aprenda-a-criar-lan-ar-e-controlar-exce-es-92258fc87c4a4b3d9d244f33ed494c0b
+
+5.   Java.lang
+   
+   * Organizando as classes com pacotes
+   * Todos os modificadores de acesso
+   * Distribuição do seu código
+   * O pacote java.lang
+   * A classe Object
+
+   * Notes: https://voltaic-carbon-23c.notion.site/Java-e-Java-lang-programe-com-uma-classe-Object-e-String-07270ddb46214b95b767f95129d3b66a
+   
+5.1  Java.util
+
+   * Conhecendo Arrays
+   * Guardando qualquer referência
+   * ArrayList e Generics
+   * Equals e mais listas
+   * Vector e a interface Collection
+   * As classes Wrappers
+   * Ordenação de listas
+   * Classes anônimas e lambdas
+
+   * Notes: https://voltaic-carbon-23c.notion.site/Java-e-java-util-Cole-es-Wrappers-e-lambda-expressions-234d8484db944cce9187cad95b3fe539
+  
